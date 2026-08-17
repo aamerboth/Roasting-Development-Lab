@@ -47,6 +47,11 @@ button:hover{
   padding-left: 20px;
 }
 
+.center-column {
+  width: 75%;
+  margin: 0 auto;
+}
+
 /* Fake image */
 .fakeimg {
   background-color: #aaa;
