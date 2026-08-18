@@ -94,6 +94,7 @@ button:hover{
 }
 
 ul {
-    list-style-position: inside;
-    text-align: center;
+    width: fit-content;
+    margin: 0 auto;
+    text-align: left;
 }
